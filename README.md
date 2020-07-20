@@ -1,9 +1,4 @@
-<style type="text/css">
-body {
-    font-family: georgia, serif;
-}
-</style>
-<body>
+<body style="font-family:georgia, serif;">
 
 ### Hello, 👋
 
