@@ -1,3 +1,4 @@
+<samp>
 ### Hello, 👋
 
 I'm Liz (she/her)—a [Maker](https://makers.tech/) and language agnostic full-stack developer. I've spent much of my career building and refining websites with brilliant web development teams for arts and design events. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
@@ -11,8 +12,9 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 🤔  **I’m looking for help with...** finding my first developer job!
 
 ### Find me here:
-💼 [linkedin.com/in/lookupdaily](http://linkedin.com/in/lookupdaily)  - to get in touch about work opportunities  
-📸 [instagram.com/lookupdaily](https://www.instagram.com/lookupdaily/) - for architecture and walking inspiration
+🛄  **LinkedIn:** [Liz Daly](http://linkedin.com/in/lookupdaily)  - to get in touch about work opportunities  
+📸 **Instagram:** [@lookupdaily](https://www.instagram.com/lookupdaily/) - for architecture and walking inspiration
+</samp>
 <!--
 **lookupdaily/lookupdaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
