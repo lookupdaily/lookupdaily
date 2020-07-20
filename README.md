@@ -15,3 +15,5 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 ### Find me here:
 🛄  **LinkedIn:** [Liz Daly](http://linkedin.com/in/lookupdaily)  - to get in touch about work opportunities  
 📸 **Instagram:** [@lookupdaily](https://www.instagram.com/lookupdaily/) - for architecture and walking inspiration
+
+[![lookupdaily's github stats](https://github-readme-stats.vercel.app/api?username=lookupdaily&hide=["stars"]&show_icons=true&title_color=000&icon_color=f98204&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
