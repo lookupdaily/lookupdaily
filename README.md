@@ -7,7 +7,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 ## More about me: 
 
 🌱  **I’m currently learning...** TypeScript and React  
-🔭  **At the moment I'm working on...** [Taped-It](https://github.com/voice-notes) an app to share voice notes in Slack; and [lookupdaily.com](https://github.com/lookupdaily/website), a space dedicated to getting out, looking up and around  
+🔭  **At the moment I'm working on...** [Taped-It](https://github.com/voice-notes), an app to share voice notes in Slack; and [lookupdaily.com](https://github.com/lookupdaily/website), a space dedicated to getting out, looking up and around  
 🔍  **I'm interested in...** making useful, beautiful, and user-friendly products for all  
 💬  **Ask me about...** my journey into tech  
 🤔  **I’m looking for help with...** finding my first developer job!  
