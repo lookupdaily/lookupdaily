@@ -26,7 +26,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## Find me here:
 
-[![Linkedin profile](https://img.shields.io/badge/Linkedin-Liz%20Daly-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/lookupdaily) *to get in touch work opportunities*
+[![Linkedin profile](https://img.shields.io/badge/Linkedin-Liz%20Daly-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/lookupdaily) *to get in touch about work opportunities*
   
 
 [![Instagram page](https://img.shields.io/badge/Instagram-%40lookupdaily-E4405F?style=social&logo=instagram)](https://www.instagram.com/lookupdaily/) *for architecture and walking inspiration*
