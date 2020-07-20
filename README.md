@@ -9,8 +9,8 @@ I'm Liz (she/her)—a [Maker](https://makers.tech/) and language agnostic full-s
 🤔  **I’m looking for help with...** finding my first developer job!
 
 ### Find me here:
-<a href="https://www.linkedin.com/in/lookupdaily/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn-icon" height="25" width="25" margin="0" padding="0"></a> <a href="https://www.linkedin.com/in/lookupdaily/">LinkedIn</a>  - to get in touch about work opportunities\
-<a href="https://www.instagram.com/lookupdaily/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram-icon" height="25" width="25"></a> <a href="https://www.instagram.com/lookupdaily/">Instagram</a>  - for architecture and walking inspiration
+💼 [linkedin.com/in/lookupdaily](http://linkedin.com/in/lookupdaily)  - to get in touch about work opportunities\
+📸 [@lookupdaily](https://www.instagram.com/lookupdaily/) - for architecture and walking inspiration
 
 <!--
 **lookupdaily/lookupdaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
