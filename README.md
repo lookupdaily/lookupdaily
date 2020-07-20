@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liz (she/her)—a [Maker](https://makers.tech/) and language agnostic full-stack developer. I've spent much of my career building and refining websites with brilliant web development teams for arts and design events. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
+I'm Liz (she/her)—a [Maker](https://makers.tech/) and language agnostic full-stack developer. I have spent much of my career building and refining websites with brilliant web development teams for arts and design events. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/lookupdaily/CV) or scroll down to check-out some of my favourite projects. ✨
 
@@ -28,5 +28,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Liz%20Daly-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/lookupdaily) *to get in touch about work opportunities*
   
-
 [![Instagram page](https://img.shields.io/badge/Instagram-%40lookupdaily-E4405F?style=social&logo=instagram)](https://www.instagram.com/lookupdaily/) *for architecture and walking inspiration*
+
+
+## Projects:
