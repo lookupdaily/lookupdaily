@@ -12,7 +12,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ### Find me here:
 💼 [linkedin.com/in/lookupdaily](http://linkedin.com/in/lookupdaily)  - to get in touch about work opportunities  
-📸 [@lookupdaily](https://www.instagram.com/lookupdaily/) - for architecture and walking inspiration
+📸 [instagram.com/lookupdaily](https://www.instagram.com/lookupdaily/) - for architecture and walking inspiration
 <!--
 **lookupdaily/lookupdaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
