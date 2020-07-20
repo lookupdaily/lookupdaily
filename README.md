@@ -1,7 +1,6 @@
 <style>
 body {
     font-family: georgia, serif;
-  }
 }
 </style>
 <body>
