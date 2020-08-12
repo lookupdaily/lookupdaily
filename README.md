@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liz (she/her)—a [Maker](https://makers.tech/) and language agnostic full-stack developer. I have spent much of my career building websites with brilliant web development teams for arts and design events. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
+I'm Liz (she/her)—a [Maker](https://makers.tech/) and full-stack developer. I have spent much of my career building websites with brilliant web development teams for arts and design events. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/lookupdaily/CV) or scroll down to check-out some of my favourite projects. ✨
 
