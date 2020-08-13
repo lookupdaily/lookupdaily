@@ -16,7 +16,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 ## What I've been working in: 
 
 [![JavaScript Commits](https://img.shields.io/badge/JavaScript-737%20commits-yellow.svg?style=flat-square)](https://sourcerer.io/lookupdaily) 
-[![TypeScript Commits](https://img.shields.io/badge/TypeScript-111%20commits-blue.svg?style=flat-square)](https://sourcerer.io/lookupdaily) 
+[![TypeScript Commits](https://img.shields.io/badge/TypeScript-124%20commits-blue.svg?style=flat-square)](https://sourcerer.io/lookupdaily) 
 [![Ruby Commits](https://img.shields.io/badge/Ruby-680%20commits-brown.svg?style=flat-square)](https://sourcerer.io/lookupdaily) 
 [![Kotlin Commits](https://img.shields.io/badge/Kotlin-12%20commits-orange.svg?style=flat-square)](https://sourcerer.io/lookupdaily)  
 [![CSS Commits](https://img.shields.io/badge/CSS-653%20commits-blueviolet.svg?style=flat-square)](https://sourcerer.io/lookupdaily) 
