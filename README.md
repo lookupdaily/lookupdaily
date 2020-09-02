@@ -6,7 +6,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## More about me: 
 
-🌱  **I’m currently learning...** TypeScript and React
+🌱  **I’m currently learning...** TypeScript and React  
 🔭  **At the moment I'm working on...** Getting stuck into my first role as a developer at [Cognizant](https://www.cognizant.com/en-uk/) and [lookupdaily.com](https://github.com/lookupdaily/website), a space dedicated to getting out, looking up and around  
 🔍  **I'm interested in...** making useful, beautiful, and user-friendly products for all  
 💬  **Ask me about...** my journey into tech  
