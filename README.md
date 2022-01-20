@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liz (she/her)—a [Maker](https://makers.tech/) and full-stack developer. I have spent much of my career building websites with brilliant web development teams for arts and design events. Now I am embarking on a new challenge as a software developer, where I can use some of my experience to help build great products myself. 
+I'm Liz (she/her)—a [Maker](https://makers.tech/) and full-stack developer with a background in marketing & communications for arts and design events. I have recently taught myself to code and am currently building transformative software for Network Rail engineers with Cognizant as part of the Intelligent Infrastructure project. 
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/lookupdaily/CV) or scroll down to check-out some of my favourite projects. ✨
 
