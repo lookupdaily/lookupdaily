@@ -6,7 +6,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## More about me: 
 
-🌱  **I’m currently learning...** .NET 
+🌱  **I’m currently learning...** .NET \
 🔭  **At the moment I'm working on...** Getting stuck into my new role as a developer at [dxw](https://www.dxw.com/)   
 🔍  **I'm interested in...** making useful, beautiful, and user-friendly products for all  
 💬  **Ask me about...** my journey into tech  
