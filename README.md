@@ -2,7 +2,7 @@
 
 I'm Liz (she/her)—a [Maker](https://makers.tech/) and web developer with a background in marketing & communications for arts and design events. I am currently working at [dxw](https://www.dxw.com/), a digital agency building public services which improve lives. 
 
-Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/lookupdaily/CV) or scroll down to check-out some of my favourite projects. ✨
+Find out more about my experience and aspirations over on my [CV](https://lizdaly.dev/cv/) or scroll down to check-out some of my favourite projects. ✨
 
 ## More about me: 
 
